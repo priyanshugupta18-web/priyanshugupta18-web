@@ -28,7 +28,7 @@ for more details check out the respective repositories.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://linkedin.com/in/priyanshugupta18)
 [![Gmail](https://img.shields.io/badge/Gmail-red?logo=gmail&logoColor=white)](mailto:priyanshuguptacodeminded@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-black?logo=web&logoColor=white)](https://https://portfolio-priyanshu-gupta.netlify.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-black?logo=web&logoColor=white)](https://portfolio-priyanshu-gupta.netlify.app/)
 
 ## ⭐From Priyanshu Gupta
 
