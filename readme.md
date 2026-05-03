@@ -6,6 +6,11 @@
 - ⚒️Working on: Weather App
 - 🎯Aim: to become a full-stack developer
 
+## 💻Tech Stack
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,react,nodejs,c,cpp,python,git,github,vscode" />
+</p>
+
 ## ⚒️Skills
 - 💻Languages: C, Python, C++
 - 🌐Web: HTML, CSS, JavaScript, ⚛️react
