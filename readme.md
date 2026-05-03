@@ -1,5 +1,4 @@
 # Hi there 👋, I'm Priyanshu Gupta
-![profileimg](profilePreview.png)
 🎓 Engineering Student | 💻 Developer | ⚙️ Tech Enthusiast
 
 ## 👨‍💻About Me
